@@ -1,0 +1,13 @@
+1. Introduction
+
+5. Transforms
+
+Challenge:
+
+Start a new Blend file
+Move the default cube 1m on the Z Axis.
+Rotate the default cube 45 degrees on the Z Axis.
+Make a Diamond by scaling by 2 on the Y Axis.
+Play and think about when you might need to apply a transform.
+Let me show you the end state...
+
