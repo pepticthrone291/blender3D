@@ -20,3 +20,12 @@ Remember you can rotate scale and move.
 Duplicate repeated items.
 If you complete a simple object with ease, try something more challenging, straight away, like the well I showed you earlier.
 ...Block out a more complex scene.
+
+7. Your First Material
+
+Challenge:
+
+Colour your model.
+Make at least 3 materials and apply them to your model.
+
+
