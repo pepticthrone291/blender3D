@@ -11,3 +11,12 @@ Make a Diamond by scaling by 2 on the Y Axis.
 Play and think about when you might need to apply a transform.
 Let me show you the end state...
 
+6. Duplication
+
+Challenge:
+
+Make a simple object or scene with primitives.
+Remember you can rotate scale and move.
+Duplicate repeated items.
+If you complete a simple object with ease, try something more challenging, straight away, like the well I showed you earlier.
+...Block out a more complex scene.
