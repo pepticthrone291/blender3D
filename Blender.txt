@@ -47,3 +47,7 @@ Start with 3 point lighting.
 Add additional lights if you like.
 Experiment and have fun.
 
+11. Outliner
+
+12. Rendering Out Your Scene
+
