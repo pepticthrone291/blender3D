@@ -28,4 +28,22 @@ Challenge:
 Colour your model.
 Make at least 3 materials and apply them to your model.
 
+8. Intro To Snapping
+
+자석 표시
+
+9. Camera Setup Moving Around Your Models
+
+Challenge
+Position the camera so that it frames your model well.
+Fell free to alter your model or scene if they aren't quite right.
+Remember you can move it again later!
+
+10. A Basic 3 Point Light Setup
+
+Challenge
+Add lights to your scene.
+Start with 3 point lighting.
+Add additional lights if you like.
+Experiment and have fun.
 
