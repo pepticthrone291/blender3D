@@ -51,3 +51,5 @@ Experiment and have fun.
 
 12. Rendering Out Your Scene
 
+14. Intro and Setup Final Challenge
+
