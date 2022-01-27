@@ -53,3 +53,38 @@ Experiment and have fun.
 
 14. Intro and Setup Final Challenge
 
+15. Blender's Interface
+
+19. Basic Modelling Concepts
+
+Vertices or 1 Vertex
+
+this can be connected together with lines or edges
+
+three vertices connect to triangle -> polygon
+
+flat surface -> face
+
+material -> further textures
+
+Challenge:
+
+Create a simple wedge, with the dimensions:
+x=2, y=4, z= 2, no overlapping vertices
+Bonus:
+Keep the origin at 0,0,0 and match the following:
+
+21. Vertices, Edges And Faces
+
+174. Section Intro - Furry Heads
+
+175. Using Metaballs
+
+Challenge:
+
+Make A Bug!
+
+- Using Metaballs, make some sort of bug or slug or caterpillar or similar.
+- Use at least 2 types of Metaball.
+- Use at least 1 negative Metaball (ie. to subtract the shape)
+
