@@ -88,3 +88,46 @@ Make A Bug!
 - Use at least 2 types of Metaball.
 - Use at least 1 negative Metaball (ie. to subtract the shape)
 
+177. Basics Of Sculpting
+
+Typical Organic Workflow
+
+1. Block out your model (metaballls)
+2. Convert to mesh
+3. Sculpt to refine and add detail and to let the creative juices flow!
+4. Retopologise if mesh is important for animation or texturing
+5. UV Unwrap / map
+6. Paint / Texture / Hair
+
+178. Preparing To Sculpt A Head
+
+Challenge:
+
+Grab Some Reference Images
+
+- Get an image for the front view and side view of a human head.
+- Set them up on second monitor or in a separate window in Blender.
+
+179. Sculpt The Head Shape
+
+Challenge:
+
+Shape Your Head
+- Get the overall head shape as you want it
+- Block out the nose
+- Block out the eye sockets
+- Block out the ears
+- Block out the lips
+- Shape the chin and jawline
+- Don't add finer detail yet!
+
+180. Sculpt The Eyes
+
+Challenge:
+
+Sculpt The Eyes
+
+- Add a sphere, rotate it, position it and mirror it
+- Sculpt over the eyeballs, then remove a strip to create eyelids
+- Add creases and details to get your eye to "medium detail"
+
