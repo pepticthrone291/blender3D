@@ -131,3 +131,14 @@ Sculpt The Eyes
 - Sculpt over the eyeballs, then remove a strip to create eyelids
 - Add creases and details to get your eye to "medium detail"
 
+186. Blending Vertex Paint Layers
+
+Set Up Your Head For Painting
+
+- Get your head to the point where you're ready to paint:
+- Add some lights
+- Make sure you have a material
+- Rename your Vertex Color layer to "Base"
+- Set up your shader editor so you can see the Base layer when in render view
+- Create a palette and select your main skin colour
+
