@@ -1,0 +1,172 @@
+1. Introduction
+
+5. Transforms
+
+Challenge:
+
+Start a new Blend file
+Move the default cube 1m on the Z Axis.
+Rotate the default cube 45 degrees on the Z Axis.
+Make a Diamond by scaling by 2 on the Y Axis.
+Play and think about when you might need to apply a transform.
+Let me show you the end state...
+
+6. Duplication
+
+Challenge:
+
+Make a simple object or scene with primitives.
+Remember you can rotate scale and move.
+Duplicate repeated items.
+If you complete a simple object with ease, try something more challenging, straight away, like the well I showed you earlier.
+...Block out a more complex scene.
+
+7. Your First Material
+
+Challenge:
+
+Colour your model.
+Make at least 3 materials and apply them to your model.
+
+8. Intro To Snapping
+
+자석 표시
+
+9. Camera Setup Moving Around Your Models
+
+Challenge
+Position the camera so that it frames your model well.
+Fell free to alter your model or scene if they aren't quite right.
+Remember you can move it again later!
+
+10. A Basic 3 Point Light Setup
+
+Challenge
+Add lights to your scene.
+Start with 3 point lighting.
+Add additional lights if you like.
+Experiment and have fun.
+
+11. Outliner
+
+12. Rendering Out Your Scene
+
+14. Intro and Setup Final Challenge
+
+15. Blender's Interface
+
+19. Basic Modelling Concepts
+
+Vertices or 1 Vertex
+
+this can be connected together with lines or edges
+
+three vertices connect to triangle -> polygon
+
+flat surface -> face
+
+material -> further textures
+
+Challenge:
+
+Create a simple wedge, with the dimensions:
+x=2, y=4, z= 2, no overlapping vertices
+Bonus:
+Keep the origin at 0,0,0 and match the following:
+
+21. Vertices, Edges And Faces
+
+Challenge:
+
+- Make the same wedge.
+- Same dimensions as before.
+- This time use any mixture of deleting / dissolving and filling to make the wedge.
+
+22. Merging Vertices In Blender
+
+Challenge:
+
+- Delete the cube.
+- Add a UV Sphere with 16 Segments and 8 Rings.
+- Delete the lower half of the sphere to make a dome. Wireframe or transparency to do this.
+- Add a cylinder with 16 vertices.
+- Place the dome on top of the cylinder.
+- Have your new tower sit where z=0
+
+23. Extruding In Blender
+
+Challenge:
+
+- Use extruding to create a simple building.
+- You can use any of the other techniques learnt so far.
+- Don't focus on realism, just a representation.
+- Use some reference material.
+
+
+
+174. Section Intro - Furry Heads
+
+175. Using Metaballs
+
+Challenge:
+
+Make A Bug!
+
+- Using Metaballs, make some sort of bug or slug or caterpillar or similar.
+- Use at least 2 types of Metaball.
+- Use at least 1 negative Metaball (ie. to subtract the shape)
+
+177. Basics Of Sculpting
+
+Typical Organic Workflow
+
+1. Block out your model (metaballls)
+2. Convert to mesh
+3. Sculpt to refine and add detail and to let the creative juices flow!
+4. Retopologise if mesh is important for animation or texturing
+5. UV Unwrap / map
+6. Paint / Texture / Hair
+
+178. Preparing To Sculpt A Head
+
+Challenge:
+
+Grab Some Reference Images
+
+- Get an image for the front view and side view of a human head.
+- Set them up on second monitor or in a separate window in Blender.
+
+179. Sculpt The Head Shape
+
+Challenge:
+
+Shape Your Head
+- Get the overall head shape as you want it
+- Block out the nose
+- Block out the eye sockets
+- Block out the ears
+- Block out the lips
+- Shape the chin and jawline
+- Don't add finer detail yet!
+
+180. Sculpt The Eyes
+
+Challenge:
+
+Sculpt The Eyes
+
+- Add a sphere, rotate it, position it and mirror it
+- Sculpt over the eyeballs, then remove a strip to create eyelids
+- Add creases and details to get your eye to "medium detail"
+
+186. Blending Vertex Paint Layers
+
+Set Up Your Head For Painting
+
+- Get your head to the point where you're ready to paint:
+- Add some lights
+- Make sure you have a material
+- Rename your Vertex Color layer to "Base"
+- Set up your shader editor so you can see the Base layer when in render view
+- Create a palette and select your main skin colour
+
