@@ -102,6 +102,30 @@ Challenge:
 - Don't focus on realism, just a representation.
 - Use some reference material.
 
+24. Pivot Points
+
+Challenge:
+
+- Create a door frame and door as separate objects
+- Using pivot points control the door so you can open and close it.
+
+25. Multiple Materials
+
+Challenge:
+
+- Create multiple materials.
+- Assign them to a single mesh object.
+- I'm going to assign them to the model I made in the extruding exercise earlier.
+
+26. Mid-Section Challenge A Small Scene
+
+Challenge:
+
+Mid-Section Challenge
+
+- Using the skills gained so far to make either a simple object that has a few parts.
+- Or a simple scene with a few objects.
+
 
 
 174. Section Intro - Furry Heads
